@@ -6,5 +6,3 @@ yarn global add @vue/cli
 
 #create vue project
 vue create [ project-name]
-
- ``` lko  ```
