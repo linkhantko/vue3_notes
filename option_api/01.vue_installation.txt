@@ -1,0 +1,9 @@
+# install vue using CLI
+
+npm install -g @vue/cli
+# OR
+yarn global add @vue/cli
+
+#create vue project
+vue create [ project-name]
+
