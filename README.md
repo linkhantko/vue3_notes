@@ -1,3 +1,3 @@
 # vue3_notes
 
-```ijoij```
+``` npm install  ```
